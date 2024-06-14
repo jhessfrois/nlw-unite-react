@@ -20,7 +20,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha React.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/5JfdoXX.png" width="80%">
+  <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/VkYCYfH.png" width="80%">
 </p>
 
 > Projeto desenvolvido entre os dias 01/04 e 03/04 de 2024
