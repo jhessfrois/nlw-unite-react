@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido uma plataforma para realizar inscrição e fazer o check-in.
 
 ## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/nlw-unite-html-css-js/)
+[🔗 Clique aqui para acessar](https://nlw-unite-react-zeta.vercel.app/)
 
 ## **🤍 Contato**
 
